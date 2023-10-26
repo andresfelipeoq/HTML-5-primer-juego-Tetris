@@ -33,5 +33,4 @@ Un ejemplo de código HTML que usa estos elementos para crear un juego de tetris
 </body>
 </html>
 
-
-![Uploading Captura de pantalla 2023-10-26 140849.png…]()
+![Captura de pantalla 2023-10-26 140849](https://github.com/andresfelipeoq/HTML-5-primer-juego-Tetris/assets/105876623/5ded5e74-6801-4f08-a644-ce35c963d194)
